@@ -1,0 +1,24 @@
+from django.shortcuts import render
+
+# Create your views here.
+from .models import Teacher
+from .serializer import TeacherSerializers
+from django.shortcuts import get_object_or_404
+from django.http import HttpResponse
+from rest_framework.views import APIView
+from rest_framework.response import Response
+
+
+class TeacherAPI(APIView):
+    
+    def get(self, request):
+        all_teacher = Teacher.objects.all()
+        output = TeacherSerializers(all_teacher, many=True)
+        return Response(output.data)
+    
+    
+    def post(self, request):
+        pass
+
+
+

@@ -1,0 +1,7 @@
+MODULES_MANAGER_V3
+DjangoProject.__init__|/home/msedebay/eclipse-workspace/DjangoProject/DjangoProject/__init__.py
+DjangoProject.asgi|/home/msedebay/eclipse-workspace/DjangoProject/DjangoProject/asgi.py
+DjangoProject.settings|/home/msedebay/eclipse-workspace/DjangoProject/DjangoProject/settings.py
+DjangoProject.urls|/home/msedebay/eclipse-workspace/DjangoProject/DjangoProject/urls.py
+DjangoProject.wsgi|/home/msedebay/eclipse-workspace/DjangoProject/DjangoProject/wsgi.py
+manage|/home/msedebay/eclipse-workspace/DjangoProject/manage.py

@@ -1,0 +1,80 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/home/msedebay/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/DjangoProject/com.python.pydev.analysis/v2_indexcache
+teacher.models|1612059838146835000|/home/msedebay/eclipse-workspace/DjangoProject/teacher/models.py
+teacher.migrations.__init__|1612058818353312000|/home/msedebay/eclipse-workspace/DjangoProject/teacher/migrations/__init__.py
+teacher.serializer|1612063132110382000|/home/msedebay/eclipse-workspace/DjangoProject/teacher/serializer.py
+DjangoProject.wsgi|1612058515057208000|/home/msedebay/eclipse-workspace/DjangoProject/DjangoProject/wsgi.py
+teacher.tests|1612058818351311000|/home/msedebay/eclipse-workspace/DjangoProject/teacher/tests.py
+teacher.__init__|1612058818343311000|/home/msedebay/eclipse-workspace/DjangoProject/teacher/__init__.py
+teacher.apps|1612058818349311000|/home/msedebay/eclipse-workspace/DjangoProject/teacher/apps.py
+manage|1612058515056208000|/home/msedebay/eclipse-workspace/DjangoProject/manage.py
+teacher.admin|1612059838161835000|/home/msedebay/eclipse-workspace/DjangoProject/teacher/admin.py
+DjangoProject.__init__|1612058515056208000|/home/msedebay/eclipse-workspace/DjangoProject/DjangoProject/__init__.py
+DjangoProject.asgi|1612058515057208000|/home/msedebay/eclipse-workspace/DjangoProject/DjangoProject/asgi.py
+DjangoProject.settings|1612059704291141000|/home/msedebay/eclipse-workspace/DjangoProject/DjangoProject/settings.py
+DjangoProject.urls|1612062207239650000|/home/msedebay/eclipse-workspace/DjangoProject/DjangoProject/urls.py
+teacher.views|1612065869196780000|/home/msedebay/eclipse-workspace/DjangoProject/teacher/views.py
+-- END DISKCACHE
+-- START DICTIONARY
+23
+10=teacher.models
+12=teacher.serializer
+15=/home/msedebay/eclipse-workspace/DjangoProject/teacher/views.py
+4=DjangoProject.wsgi
+19=Teacher
+9=/home/msedebay/eclipse-workspace/DjangoProject/teacher/models.py
+17=/home/msedebay/eclipse-workspace/DjangoProject/DjangoProject/urls.py
+14=teacher.apps
+5=/home/msedebay/eclipse-workspace/DjangoProject/DjangoProject/asgi.py
+3=/home/msedebay/eclipse-workspace/DjangoProject/DjangoProject/wsgi.py
+8=manage
+11=/home/msedebay/eclipse-workspace/DjangoProject/teacher/serializer.py
+13=/home/msedebay/eclipse-workspace/DjangoProject/teacher/apps.py
+23=TeacherConfig
+7=/home/msedebay/eclipse-workspace/DjangoProject/manage.py
+21=TeacherAPI
+22=TeacherSerializers
+6=DjangoProject.asgi
+2=DjangoProject.settings
+18=DjangoProject.urls
+1=/home/msedebay/eclipse-workspace/DjangoProject/DjangoProject/settings.py
+16=teacher.views
+20=TeacherSerializers.Meta
+-- END DICTIONARY
+-- START TREE 1
+19
+all|1|ALLOWED_HOSTS!1^28#1*19@
+app|2|application!3^16#1*35@application!5^16#1*51@
+aut|1|AUTH_PASSWORD_VALIDATORS!1^102#1*19@
+bas|1|BASE_DIR!1^16#1*19@
+dat|1|DATABASES!1^83#1*19@
+deb|1|DEBUG!1^26#1*19@
+ins|1|INSTALLED_APPS!1^42#1*19@
+lan|1|LANGUAGE_CODE!1^108#1*19@
+mai|1|main!7^7#5*66@
+mid|1|MIDDLEWARE!1^52#1*19@
+roo|1|ROOT_URLCONF!1^54#1*19@
+sec|1|SECRET_KEY!1^23#1*19@
+sta|1|STATIC_URL!1^122#1*19@
+tea|4|Teacher!9^4#7*81@TeacherSerializers!11^10#7*97@TeacherConfig!13^4#7*113@TeacherAPI!15^15#7*129@
+tem|1|TEMPLATES!1^70#1*19@
+tim|1|TIME_ZONE!1^110#1*19@
+url|1|urlpatterns!17^24#1*147@
+use|3|USE_L10N!1^114#1*19@USE_TZ!1^116#1*19@USE_I18N!1^112#1*19@
+wsg|1|WSGI_APPLICATION!1^72#1*19@
+-- END TREE
+-- START TREE 2
+11
+__s|1|__str__!19&9^10#9*82@
+fie|1|fields!20&11^14#9*99@
+fir|1|first_name!19&9^6#5*83@
+get|1|get!21&15^17#9*130@
+las|1|last_name!19&9^7#5*83@
+met|1|Meta!22&11^12#11*97@
+mod|1|model!20&11^13#9*99@
+nam|1|name!23&13^5#5*115@
+pos|1|post!21&15^23#9*130@
+ski|1|skills!19&9^8#5*83@
+tea|1|teacher_id!19&9^5#5*83@
+-- END TREE
